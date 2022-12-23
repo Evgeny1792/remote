@@ -4,3 +4,4 @@ added comments
 2. Create local repository
 3. Connect distant reposytory with local
 4. Add distant repository to project: Git remote add 
+123
